@@ -1,0 +1,10 @@
+body {
+    background: rgb(63,251,235);
+background: linear-gradient(128deg, rgba(63,251,235,1) 0%, rgba(232,151,14,1) 100%);
+}
+
+.home {
+border-radius: 10px;
+color: yellow;
+background-color: black;
+}

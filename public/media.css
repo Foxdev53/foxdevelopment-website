@@ -1,0 +1,30 @@
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  border-radius: 40px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+    size: 100px;
+  }
+  .fa-youtube {
+    background:red;
+    color: white;
+    size: 100px;
+  }
+  .fa-sitemap {
+    background: crimson;
+    color: white;
+    size: 100px;
+  }
+
+  .fa-github {
+    background: darkslategray;
+    color: white;
+    size: 100px;
+  }
