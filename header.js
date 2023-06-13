@@ -1,4 +1,4 @@
-class Footer extends HTMLElement {
+class Header extends HTMLElement {
     constructor() {
       super();
     }
@@ -7,7 +7,7 @@ class Footer extends HTMLElement {
       this.innerHTML = `
       <style>
       footer{
-        background-color:  red;
+        background-color:  blue;
         color:  yellow;
         position:fixed;
         bottom:0;
@@ -18,15 +18,21 @@ class Footer extends HTMLElement {
     }
     </style>
 
-      <footer>
-      <center>
-      This Site Was Made by Fox Development.
-      </center>      
-      </footer>
+      <header>
+      <a href=index.html
+      <img src=public/Logo {FD}.png">
+     </a>
+     <nav>
+     <ul>
+     <li><a href=#>X</a>
+     </ul>
+     </nav>
+
+      </header>
       
 
       `;
     }
   }
   
-  customElements.define('my-footer' ,  Footer);
+  customElements.define('my-header', Header);
