@@ -20,15 +20,14 @@ class Header extends HTMLElement {
 
       <header>
       <a href="index.html"
-      <img src= https://foxdevelopment.netlify.app/public/Logo%20%7BFD%7D.png>
-     </a>
+      <img src="public/Logo {FD}.png" alt="FD LOGO" width="90px" height="90px">
+      </a>
      <nav>
      <ul>
      <div><li><a href="index.html">Home</a></div>
      <div><li><a href="oursites.html">Our sites</a></div>
      </ul>
      </nav>
-
       </header>
       
 
