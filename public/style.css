@@ -8,3 +8,13 @@ border-radius: 10px;
 color: yellow;
 background-color: black;
 }
+header{
+    background-color:  blue;
+    color:  yellow;
+    position:fixed;
+    bottom:0;
+    width:100%;
+    height:20px;   /* Height of the footer */
+
+
+}

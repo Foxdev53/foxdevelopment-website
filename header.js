@@ -5,19 +5,6 @@ class Header extends HTMLElement {
   
     connectedCallback() {
       this.innerHTML = `
-      <style>
-      header{
-        background-color:  blue;
-        color:  yellow;
-        position:fixed;
-        bottom:0;
-        width:100%;
-        height:20px;   /* Height of the footer */
-
-
-    }
-    </style>
-
       <header>
      <nav>
      <ul>
