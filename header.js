@@ -9,11 +9,7 @@ class Header extends HTMLElement {
       <header>
      <nav>
      <div>
-     <li><a href="index.html">Home</a>
-     </div>
-     <div>
-     <li><a href="oursites.html">Our sites</a>
-     </div>
+     <li><a href="index.html">Home</a> <li><a href="oursites.html">Our sites</a>
      </nav>
       </header>
       
