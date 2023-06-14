@@ -21,15 +21,7 @@ class Footer extends HTMLElement {
       <footer>
       <center>
       This Site Was Made by Fox Development.   
-      <center>
-<div>
-      <right>
-      <a href="https://foxdevelopment.netlify.app/public/sitemap.txt" class="fa fa-sitemap"></a>
-      <a href="https://twitter.com/Foxdev53" class="fa fa-twitter"></a>
-      <a href="https://github.com/Foxdev53/foxdevelopment-website" class="fa fa-github"></a>
-      <a href="https://youtube.com/@Foxdev53" class="fa fa-youtube"></a>
-      </right>
-      </div>   
+      <center>  
       </footer>
       
 
