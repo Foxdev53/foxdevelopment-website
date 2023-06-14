@@ -17,3 +17,8 @@ header {
 .Logo {
     padding-top: 10px;
 }
+
+.logo {
+    height: 90px;
+    width: 90px;
+}
