@@ -11,8 +11,11 @@ class Header extends HTMLElement {
      <a href="index.html">Home</a>
      </span>
      <span>
-     <a href="oursites.html">Our sites</a>
+     <a href="ourteam.html">Our team</a>
+     </span>
      <span>
+     <a href="oursites.html">Our sites</a>
+     </span>
       </header>
       
 
