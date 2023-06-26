@@ -14,9 +14,6 @@ class Header extends HTMLElement {
      <span>
      <a href="ourteam.html">Our team</a>
      </span>
-     <span>
-     <a href="sites/index.html">Sites made by us</a>
-     </span>
       </header>
       
 
